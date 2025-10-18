@@ -25,3 +25,5 @@ The dataset includes:
 ## Conclusion
 
 This Power BI report offers a comprehensive view of stop and search practices across the UK, providing valuable insights into demographic impacts, regional differences, and the outcomes of searches. It serves as a resource for policymakers, law enforcement agencies, and community organizations interested in promoting transparency and effectiveness in policing.
+## DASHBAORD
+Here is the Dashboard:[App powerbi link](https://app.powerbi.com/view?r=eyJrIjoiZmQ1OGYwMmYtNTAxMi00ODI1LWIyODgtNTc0OGJiNzdjYWZkIiwidCI6IjI4MTc1ZDcxLTIxNGMtNGE1MS1hM2NhLTU1NzliZTNkMTY1OCJ9)
